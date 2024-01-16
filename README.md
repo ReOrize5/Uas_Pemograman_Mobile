@@ -1,5 +1,4 @@
-![image](https://github.com/ReOrize5/Uas_Pemograman_Mobile/assets/115756982/9ad7dfb7-797c-45fd-8c5e-71c7fff36b5e)![image](https://github.com/ReOrize5/Uas_Pemograman_Mobile/assets/115756982/c9f9471d-0e6c-4445-8364-95fca79c5229)# Uas_Pemograman_Mobile
-
+# Uas_Pemograman_Mobile
 
 ## Fabian Eka Prasetyo
 ## TI.22.A3
